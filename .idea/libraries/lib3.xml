@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/packager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/jconsole.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/javafx-mx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/sa-jdi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/ant-javafx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/dt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

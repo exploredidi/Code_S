@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="locale2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/visualvm/profiler/lib/locale/jfluid-server_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/visualvm/profiler/lib/locale/jfluid-server_ja.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

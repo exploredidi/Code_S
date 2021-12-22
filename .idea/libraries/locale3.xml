@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="locale3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/visualvm/platform/modules/ext/locale/updater_ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jdk1.8.0_291/lib/visualvm/platform/modules/ext/locale/updater_zh_CN.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
